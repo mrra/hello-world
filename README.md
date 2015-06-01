@@ -1,2 +1,2 @@
 # hello-world
-The first Github file
+The first Github repository or *repo*
