@@ -5,3 +5,5 @@ So I'm learning all about Git and Github and Source Tree and Bit bucket.
 
 ## It's a huge growth curve
 But it's way cool.
+
+I'm going to be designer and a developer(ish).
