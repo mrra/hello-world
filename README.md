@@ -14,3 +14,6 @@ Okay I think i'm getting it now...
 =======
 ### What
 >>>>>>> rich-changes
+
+
+I've added this file called index.html – amazing!
