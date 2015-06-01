@@ -7,10 +7,3 @@ So I'm learning all about Git and Github and Source Tree and Bit bucket.
 But it's way cool.
 
 I'm going to be designer and a developer. I'm also going to get really fit.
-
-<<<<<<< HEAD
-
-Okay I think i'm getting it now...
-=======
-### What
->>>>>>> rich-changes
