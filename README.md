@@ -1,5 +1,5 @@
 # hello-world
-The first Github repository or *repo*
+The first Github *repo* – short for *repository*  
 
 So I'm learning all about Git and Github and Source Tree and Bit bucket.
 
